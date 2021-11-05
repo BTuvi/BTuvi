@@ -10,4 +10,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTuvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+skills
+Programming Languages	csharp javascript typescript python
+Front-end	html5 css3 angular react redux webpack bootstrap
+Back-end	dotnet nodejs mongodb mssql postgresql sqlite postman
+DevOps	docker azure heroku git linux vim bash powershell terraform ansible
+
+
 
