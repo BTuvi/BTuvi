@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on something cool. :wink:
 - 🌱 I’m currently learning DevOps tools.
 - :basketball: I'm a team player.
-- ⚡ Also I'm a tech guy who loves to play basketball and chess.
+- ⚡ Also I'm a tech guy who loves to play basketball and play Qanun.
 
 
 <table style="width:100%;margin-left:auto;margin-right:auto;" align="center">
